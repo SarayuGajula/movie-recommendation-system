@@ -37,4 +37,4 @@ def main():
 
         # Button to trigger recommendation
         if st.button("Recommend"):
-            recommendations = recommender.get_recommendations(selected_mov
+            recommendations = recommender.get_recommendations(selected_mov)
