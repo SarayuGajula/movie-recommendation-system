@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Movie Recommendation System
 
 A **fully working** movie recommendation system built with **Python** and **Streamlit**.  
@@ -17,3 +18,6 @@ This project uses a simple **content-based** approach (via genres) to recommend 
 
 ## Folder Structure
 
+=======
+# movie-recommendation-system
+>>>>>>> e87664ddac33e2d4fb40398ea59015c137dda1fe
